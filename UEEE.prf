@@ -28,7 +28,7 @@ Settings	SettingsfileVCCS	\Settings\Topaz.txt
 Settings	alias	\Settings\Topaz.txt
 Plugins	Plugin0	C:\Users\zikee.ALEX-PC\source\repos\DiscordEuroscope\Euroscope 3.2\DiscordEuroscope.dll
 Plugins	Plugin0Display0	Standard ES radar screen
-RecentFiles	Recent1	\ASR\UEEE_CTR.asr
+RecentFiles	Recent1	\ASR\UEEE_GND-TWR.asr
 Sounds	Sound0	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\handoff_request.wav
 Sounds	Sound1	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\handoff_accept.wav
 Sounds	Sound2	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\conflict_alert.wav
@@ -63,6 +63,7 @@ TeamSpeakVccs	CaptureMode	Windows Audio Session
 TeamSpeakVccs	CaptureDevice	Mic in at rear panel (Pink) (Realtek(R) Audio)
 Plugins	Plugin1	\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1Display0	Standard ES radar screen
-RecentFiles	Recent3	\ASR\DEV.asr
+RecentFiles	Recent3	\ASR\UEEE_CTR.asr
 RecentFiles	Recent4	\ASR\DEV.asr
 RecentFiles	Recent5	\ASR\DEV.asr
+RecentFiles	Recent6	\ASR\DEV.asr
