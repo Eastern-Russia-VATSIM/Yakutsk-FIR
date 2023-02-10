@@ -1,0 +1,68 @@
+Settings	sector	\Sector\Yakutsk FIR TOPAZ.sct
+LastSession	connecttype	2
+LastSession	facility	6
+LastSession	rating	3
+LastSession	server	SweatBox
+LastSession	tovatsim	1
+LastSession	atis2	Yakutsk Approach
+LastSession	atis3	charts and sceneries on dalcontrol.ru
+LastSession	atis4	Dalcontrol Discord:discord.gg/cYtFwAbX
+LastSession	range	600
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	atis_airport	UEEE
+LastSession	atis_letter	65
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	SettingsfileSIL	\Settings\Topaz.txt
+Settings	SettingsfileSEL	\Settings\Topaz.txt
+Settings	SettingsfileDEP	\Settings\Topaz.txt
+Settings	SettingsfileARR	\Settings\Topaz.txt
+Settings	SettingsfileSYMBOLOGY	\Settings\symbology.txt
+Settings	SettingsfileVOICE	\Settings\Topaz.txt
+Settings	SettingsfilePROFILE	\Settings\Topaz.txt
+Settings	SettingsfileTAGS	\Settings\Topaz.txt
+Settings	SettingsfilePLUGINS	\Settings\Topaz.txt
+Settings	Settingsfile	\Settings\Topaz.txt
+Settings	SettingsfileVCCS	\Settings\Topaz.txt
+Settings	alias	\Settings\Topaz.txt
+Plugins	Plugin0	C:\Users\zikee.ALEX-PC\source\repos\DiscordEuroscope\Euroscope 3.2\DiscordEuroscope.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+RecentFiles	Recent1	\ASR\UEEE_CTR.asr
+Sounds	Sound0	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\handoff_request.wav
+Sounds	Sound1	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\handoff_accept.wav
+Sounds	Sound2	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\conflict_alert.wav
+Sounds	Sound3	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\radio_message.wav
+Sounds	Sound4	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\private_message.wav
+Sounds	Sound5	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\atc_message.wav
+Sounds	Sound6	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\broadcast_message.wav
+Sounds	Sound7	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\landline_request.wav
+Sounds	Sound8	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\supervisor_message.wav
+Sounds	Sound9	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\connected.wav
+Sounds	Sound10	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\disconnected.wav
+Sounds	Sound11	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\ongoing_request.wav
+Sounds	Sound12	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\ongoing_accepted.wav
+Sounds	Sound13	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\ongoing_refused.wav
+Sounds	Sound14	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\ongoing_manual.wav
+Sounds	Sound15	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\new_atis.wav
+Sounds	Sound16	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\handoff_refused.wav
+Sounds	Sound17	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\pointout.wav
+Sounds	Sound18	\Sounds\Hans_Zimmer_-_First_Step_(musmore.com).wav
+RecentFiles	Recent2	\ASR\UEEE_APP.asr
+TeamSpeakVccs	Ts3DialogLeft	217
+TeamSpeakVccs	Ts3DialogTop	427
+TeamSpeakVccs	Ts3DialogRight	1122
+TeamSpeakVccs	Ts3DialogBottom	992
+TeamSpeakVccs	TsVccsMiniControlX	2390
+TeamSpeakVccs	TsVccsMiniControlY	191
+LastSession	scenario	\Sweatbox\dev.txt
+TeamSpeakVccs	Ts3NickName	1475694
+TeamSpeakVccs	PlaybackMode	Windows Audio Session
+TeamSpeakVccs	PlaybackDevice	Динамики (Realtek(R) Audio)
+TeamSpeakVccs	CaptureMode	Windows Audio Session
+TeamSpeakVccs	CaptureDevice	Mic in at rear panel (Pink) (Realtek(R) Audio)
+Plugins	Plugin1	\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+RecentFiles	Recent3	\ASR\DEV.asr
+RecentFiles	Recent4	\ASR\DEV.asr
+RecentFiles	Recent5	\ASR\DEV.asr
