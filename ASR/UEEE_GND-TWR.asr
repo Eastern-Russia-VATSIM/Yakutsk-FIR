@@ -1,0 +1,79 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\zikee.ALEX-PC\Documents\UEEE\Sector\Yakutsk FIR TOPAZ.sct
+SECTORTITLE:Yakutsk FIR TOPAZ.sct
+ARTCC boundary:UEEE_ACC:
+ARTCC high boundary:UEEE_APP:
+ARTCC low boundary:UEEE_R_APP:
+Free Text:UEEE\1:freetext
+Free Text:UEEE\10:freetext
+Free Text:UEEE\11:freetext
+Free Text:UEEE\12:freetext
+Free Text:UEEE\13:freetext
+Free Text:UEEE\14:freetext
+Free Text:UEEE\15:freetext
+Free Text:UEEE\16:freetext
+Free Text:UEEE\17:freetext
+Free Text:UEEE\18:freetext
+Free Text:UEEE\19:freetext
+Free Text:UEEE\2:freetext
+Free Text:UEEE\20:freetext
+Free Text:UEEE\21:freetext
+Free Text:UEEE\22:freetext
+Free Text:UEEE\23:freetext
+Free Text:UEEE\24:freetext
+Free Text:UEEE\25:freetext
+Free Text:UEEE\26:freetext
+Free Text:UEEE\27:freetext
+Free Text:UEEE\28:freetext
+Free Text:UEEE\29:freetext
+Free Text:UEEE\29A:freetext
+Free Text:UEEE\29B:freetext
+Free Text:UEEE\3:freetext
+Free Text:UEEE\30:freetext
+Free Text:UEEE\31:freetext
+Free Text:UEEE\32:freetext
+Free Text:UEEE\33:freetext
+Free Text:UEEE\34:freetext
+Free Text:UEEE\35:freetext
+Free Text:UEEE\36:freetext
+Free Text:UEEE\4:freetext
+Free Text:UEEE\5:freetext
+Free Text:UEEE\52:freetext
+Free Text:UEEE\53:freetext
+Free Text:UEEE\54:freetext
+Free Text:UEEE\55:freetext
+Free Text:UEEE\6:freetext
+Free Text:UEEE\7:freetext
+Free Text:UEEE\8:freetext
+Free Text:UEEE\9:freetext
+Free Text:UEEE\A:freetext
+Free Text:UEEE\A:freetext
+Free Text:UEEE\B:freetext
+Free Text:UEEE\B:freetext
+Free Text:UEEE\C:freetext
+Free Text:UEEE\D:freetext
+Free Text:UEEE\D:freetext
+Free Text:UEEE\W1:freetext
+Free Text:UEEE\W2:freetext
+Free Text:UEEE\W3:freetext
+Free Text:UEEE\W4:freetext
+Free Text:UEEE\W5:freetext
+Free Text:UEEE\W6:freetext
+Geo:UEEE:
+Regions:UEEE:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:58.00000
+TAGFAMILY:TOPAZ
+WINDOWAREA:62.085962:129.732071:62.105081:129.805795
