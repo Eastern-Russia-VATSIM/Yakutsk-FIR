@@ -1,17 +1,5 @@
 Settings	sector	\Sector\Yakutsk FIR TOPAZ.sct
-LastSession	connecttype	2
-LastSession	facility	6
-LastSession	rating	3
-LastSession	server	SweatBox
-LastSession	tovatsim	1
-LastSession	atis2	Yakutsk Approach
-LastSession	atis3	charts and sceneries on dalcontrol.ru
-LastSession	atis4	Dalcontrol Discord:discord.gg/cYtFwAbX
-LastSession	range	600
 LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
-LastSession	atis_airport	UEEE
-LastSession	atis_letter	65
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Settings	SettingsfileSIL	\Settings\Topaz.txt
@@ -26,44 +14,38 @@ Settings	SettingsfilePLUGINS	\Settings\Topaz.txt
 Settings	Settingsfile	\Settings\Topaz.txt
 Settings	SettingsfileVCCS	\Settings\Topaz.txt
 Settings	alias	\Settings\Topaz.txt
-Plugins	Plugin0	C:\Users\zikee.ALEX-PC\source\repos\DiscordEuroscope\Euroscope 3.2\DiscordEuroscope.dll
-Plugins	Plugin0Display0	Standard ES radar screen
-RecentFiles	Recent1	\ASR\UEEE_GND-TWR.asr
-Sounds	Sound0	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\handoff_request.wav
-Sounds	Sound1	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\handoff_accept.wav
-Sounds	Sound2	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\conflict_alert.wav
-Sounds	Sound3	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\radio_message.wav
-Sounds	Sound4	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\private_message.wav
-Sounds	Sound5	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\atc_message.wav
-Sounds	Sound6	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\broadcast_message.wav
-Sounds	Sound7	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\landline_request.wav
-Sounds	Sound8	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\supervisor_message.wav
-Sounds	Sound9	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\connected.wav
-Sounds	Sound10	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\disconnected.wav
-Sounds	Sound11	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\ongoing_request.wav
-Sounds	Sound12	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\ongoing_accepted.wav
-Sounds	Sound13	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\ongoing_refused.wav
-Sounds	Sound14	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\ongoing_manual.wav
-Sounds	Sound15	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\new_atis.wav
-Sounds	Sound16	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\handoff_refused.wav
-Sounds	Sound17	E:\Games\Vatsim_ATC\EuroScope v3.2\Sounds\pointout.wav
-Sounds	Sound18	\Sounds\Hans_Zimmer_-_First_Step_(musmore.com).wav
+RecentFiles	Recent1	\ASR\UEEE_CTR.asr
 RecentFiles	Recent2	\ASR\UEEE_APP.asr
-TeamSpeakVccs	Ts3DialogLeft	217
-TeamSpeakVccs	Ts3DialogTop	427
-TeamSpeakVccs	Ts3DialogRight	1122
-TeamSpeakVccs	Ts3DialogBottom	992
+RecentFiles	Recent3	\ASR\UEEE_GND-TWR.asr
+Sounds	Sound0	\Sounds\handoff_request.wav
+Sounds	Sound1	\Sounds\handoff_accept.wav
+Sounds	Sound2	\Sounds\conflict_alert.wav
+Sounds	Sound3	\Sounds\radio_message.wav
+Sounds	Sound4	\Sounds\private_message.wav
+Sounds	Sound5	\Sounds\atc_message.wav
+Sounds	Sound6	\Sounds\broadcast_message.wav
+Sounds	Sound7	\Sounds\landline_request.wav
+Sounds	Sound8	\Sounds\supervisor_message.wav
+Sounds	Sound9	\Sounds\connected.wav
+Sounds	Sound10	\Sounds\disconnected.wav
+Sounds	Sound11	\Sounds\ongoing_request.wav
+Sounds	Sound12	\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\Sounds\ongoing_refused.wav
+Sounds	Sound14	\Sounds\ongoing_manual.wav
+Sounds	Sound15	\Sounds\new_atis.wav
+Sounds	Sound16	\Sounds\handoff_refused.wav
+Sounds	Sound17	\Sounds\pointout.wav
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogTop	426
+TeamSpeakVccs	Ts3DialogRight	905
+TeamSpeakVccs	Ts3DialogBottom	991
 TeamSpeakVccs	TsVccsMiniControlX	2390
 TeamSpeakVccs	TsVccsMiniControlY	191
-LastSession	scenario	\Sweatbox\dev.txt
-TeamSpeakVccs	Ts3NickName	1475694
-TeamSpeakVccs	PlaybackMode	Windows Audio Session
-TeamSpeakVccs	PlaybackDevice	Динамики (Realtek(R) Audio)
-TeamSpeakVccs	CaptureMode	Windows Audio Session
-TeamSpeakVccs	CaptureDevice	Mic in at rear panel (Pink) (Realtek(R) Audio)
+TeamSpeakVccs	Ts3NickName	CID
+Plugins	Plugin0	C:\Users\zikee.ALEX-PC\source\repos\DiscordEuroscope\Euroscope 3.2\DiscordEuroscope.dll
 Plugins	Plugin1	\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1Display0	Standard ES radar screen
-RecentFiles	Recent3	\ASR\UEEE_CTR.asr
-RecentFiles	Recent4	\ASR\DEV.asr
-RecentFiles	Recent5	\ASR\DEV.asr
-RecentFiles	Recent6	\ASR\DEV.asr
+Plugins	Plugin2	\Plugins\GRplugin\GRplugin.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display

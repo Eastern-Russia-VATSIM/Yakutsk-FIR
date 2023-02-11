@@ -1,5 +1,6 @@
 [POSITIONS]
-RU-ERC_FSS:Eastern Russia Control:135.550:ERC:C:RU-ERC:FSS:-:-:4300:4377
+RU-ERC_FSS:Eastern Russia Control:135.550:ERC:F:RU-ERC:FSS:-:-:4300:4377
+RU-SIB_FSS:Siberia-Control:135.220:SIB:F:RU-SIB:FSS:-:-:5320:5437
 ;Yakutsk FIR
 UEEE_CTR:Yakutsk Control:125.600:YC:C:UEEE:CTR:-:-
 UEEE_E_CTR:Yakutsk Control(East):126.900:YC_E:C:UEEE:CTR:-:-

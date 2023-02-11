@@ -1,5 +1,5 @@
-DisplayTypeName:Standard ES radar screen
-DisplayTypeNeedRadarContent:1
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\zikee.ALEX-PC\Documents\UEEE\Sector\Yakutsk FIR TOPAZ.sct
 SECTORTITLE:Yakutsk FIR TOPAZ.sct
@@ -62,7 +62,24 @@ Free Text:UEEE\W4:freetext
 Free Text:UEEE\W5:freetext
 Free Text:UEEE\W6:freetext
 Geo:UEEE:
+Regions:BACKGROUND:polygon
 Regions:UEEE:polygon
+Runways:UEEE 05R-23L:centerline
+Runways:UEEE 05R-23L:extended centerline 1
+Runways:UEEE 05R-23L:extended centerline 1 left base
+Runways:UEEE 05R-23L:extended centerline 1 left ticks
+Runways:UEEE 05R-23L:extended centerline 1 left vectoring
+Runways:UEEE 05R-23L:extended centerline 1 right base
+Runways:UEEE 05R-23L:extended centerline 1 right ticks
+Runways:UEEE 05R-23L:extended centerline 1 right vectoring
+Runways:UEEE 05R-23L:extended centerline 2
+Runways:UEEE 05R-23L:extended centerline 2 left base
+Runways:UEEE 05R-23L:extended centerline 2 left ticks
+Runways:UEEE 05R-23L:extended centerline 2 left vectoring
+Runways:UEEE 05R-23L:extended centerline 2 right base
+Runways:UEEE 05R-23L:extended centerline 2 right ticks
+Runways:UEEE 05R-23L:extended centerline 2 right vectoring
+Runways:UEEE 05R-23L:name
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -77,3 +94,5 @@ DISABLEZOOMING:1
 DisplayRotation:58.00000
 TAGFAMILY:TOPAZ
 WINDOWAREA:62.085962:129.732071:62.105081:129.805795
+PLUGIN:Ground Radar plugin:GroundMode:UEEE
+PLUGIN:TopSky plugin:NoDraw:1
