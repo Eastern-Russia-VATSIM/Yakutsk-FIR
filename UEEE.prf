@@ -15,8 +15,8 @@ Settings	Settingsfile	\Settings\Topaz.txt
 Settings	SettingsfileVCCS	\Settings\Topaz.txt
 Settings	alias	\Settings\Topaz.txt
 RecentFiles	Recent1	\ASR\UEEE_CTR.asr
-RecentFiles	Recent2	\ASR\UEEE_APP.asr
-RecentFiles	Recent3	\ASR\UEEE_GND-TWR.asr
+RecentFiles	Recent2	\ASR\UEEE_GND-TWR.asr
+RecentFiles	Recent3	\ASR\UEEE_APP.asr
 Sounds	Sound0	\Sounds\handoff_request.wav
 Sounds	Sound1	\Sounds\handoff_accept.wav
 Sounds	Sound2	\Sounds\conflict_alert.wav
@@ -39,8 +39,8 @@ TeamSpeakVccs	Ts3DialogLeft	0
 TeamSpeakVccs	Ts3DialogTop	426
 TeamSpeakVccs	Ts3DialogRight	905
 TeamSpeakVccs	Ts3DialogBottom	991
-TeamSpeakVccs	TsVccsMiniControlX	2390
-TeamSpeakVccs	TsVccsMiniControlY	191
+TeamSpeakVccs	TsVccsMiniControlX	2445
+TeamSpeakVccs	TsVccsMiniControlY	277
 TeamSpeakVccs	Ts3NickName	CID
 Plugins	Plugin0	C:\Users\zikee.ALEX-PC\source\repos\DiscordEuroscope\Euroscope 3.2\DiscordEuroscope.dll
 Plugins	Plugin1	\Plugins\TopSky\TopSky.dll
@@ -49,3 +49,9 @@ Plugins	Plugin2	\Plugins\GRplugin\GRplugin.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin1Display1	Ground Radar display
+Settings	airportcoords	\ICAO\ICAO.txt
+Settings	airways	\ICAO\AIRWAY.txt
+Settings	airlines	\ICAO\ICAO_Airlines.txt
+Settings	airports	\ICAO\ICAO_Airports.txt
+Settings	aircraft	\ICAO\ICAO_Aircraft.txt
+
