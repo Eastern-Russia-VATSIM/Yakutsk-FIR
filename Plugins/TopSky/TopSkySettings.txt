@@ -19,7 +19,7 @@ System_GUI_Scale_Windows=1
 Setup_COOPANS=0
 
 Airspace_C_Flag=UEEE
-Airspace_ASSR_Type=0
+Airspace_ASSR_Type=1
 Airspace_ModeS_Code_VFR=0
 Airspace_ModeS_Code=1000
 Airspace_No_DUPE_Codes=7000
