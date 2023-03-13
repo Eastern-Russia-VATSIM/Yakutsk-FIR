@@ -1,0 +1,71 @@
+Settings	sector	\Sector\Yakutsk FIR TOPAZ.sct
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	SettingsfileSIL	\Settings\TOPAZ.txt
+Settings	SettingsfileSEL	\Settings\TOPAZ.txt
+Settings	SettingsfileDEP	\Settings\TOPAZ.txt
+Settings	SettingsfileARR	\Settings\TOPAZ.txt
+Settings	SettingsfileSYMBOLOGY	\Settings\TOPAZ.txt
+Settings	SettingsfileVOICE	\Settings\TOPAZ.txt
+Settings	SettingsfilePROFILE	\Settings\TOPAZ.txt
+Settings	SettingsfileTAGS	\Settings\TOPAZ.txt
+Settings	SettingsfilePLUGINS	\Settings\TOPAZ.txt
+Settings	Settingsfile	\Settings\TOPAZ.txt
+Settings	SettingsfileVCCS	\Settings\TOPAZ.txt
+Settings	SettingsfileFP	\Settings\TOPAZ.txt
+Settings	SettingsfileCONFLICT	\Settings\TOPAZ.txt
+Settings	SettingsfilePILOTING	\Settings\TOPAZ.txt
+Settings	SettingsfileORIGPLANE	\Settings\TOPAZ.txt
+Settings	SettingsfileSTUP	\Settings\TOPAZ.txt
+Settings	SettingsfileTAXIOUT	\Settings\TOPAZ.txt
+Settings	SettingsfileTAKEOFF	\Settings\TOPAZ.txt
+Settings	SettingsfileADCS	\Settings\TOPAZ.txt
+Settings	SettingsfileTAXIIN	\Settings\TOPAZ.txt
+Settings	SettingsfileSCREEN	\Settings\TOPAZ.txt
+Settings	airlines	\ICAO\ICAO_Airlines.txt
+Settings	airports	\ICAO\ICAO_Airports.txt
+Settings	aircraft	\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\NavData\icao.txt
+Settings	airways	\NavData\airway.txt
+Settings	alias	\Settings\TOPAZ.txt
+RecentFiles	Recent1	\ASR\UEEE_CTR.asr
+RecentFiles	Recent2	\ASR\UEEE_APP.asr
+RecentFiles	Recent3	\ASR\UEEE_GND-TWR.asr
+Sounds	Sound0	\Sounds\handoff_request.wav
+Sounds	Sound1	\Sounds\handoff_accept.wav
+Sounds	Sound2	\Sounds\conflict_alert.wav
+Sounds	Sound3	\Sounds\radio_message.wav
+Sounds	Sound4	\Sounds\private_message.wav
+Sounds	Sound5	\Sounds\atc_message.wav
+Sounds	Sound6	\Sounds\broadcast_message.wav
+Sounds	Sound7	\Sounds\landline_request.wav
+Sounds	Sound8	\Sounds\supervisor_message.wav
+Sounds	Sound9	\Sounds\connected.wav
+Sounds	Sound10	\Sounds\disconnected.wav
+Sounds	Sound11	\Sounds\ongoing_request.wav
+Sounds	Sound12	\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\Sounds\ongoing_refused.wav
+Sounds	Sound14	\Sounds\ongoing_manual.wav
+Sounds	Sound15	\Sounds\new_atis.wav
+Sounds	Sound16	\Sounds\handoff_refused.wav
+Sounds	Sound17	\Sounds\pointout.wav
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogTop	426
+TeamSpeakVccs	Ts3DialogRight	905
+TeamSpeakVccs	Ts3DialogBottom	991
+TeamSpeakVccs	TsVccsMiniControlX	2445
+TeamSpeakVccs	TsVccsMiniControlY	73
+TeamSpeakVccs	Ts3NickName	CID
+Plugins	Plugin0	\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1	\Plugins\GRplugin\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin2	\Plugins\vTools\vTools.dll
+Plugins	Plugin2Display0	vTools
+Plugins	Plugin3	C:\Users\zikee.ALEX-PC\Documents\GitHub\Discord\Euroscope 3.2\DiscordEuroscope.dll
+Plugins	Plugin4Display1	Standard ES radar screen
+Plugins	Plugin4Display2	Ground Radar display
+Plugins	Plugin4Display3	vTools
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin2Display2	Ground Radar display

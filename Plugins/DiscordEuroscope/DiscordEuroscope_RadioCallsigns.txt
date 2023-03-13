@@ -1,0 +1,5 @@
+UEEE_CTR Yakutsk Control
+UEEE_APP Yakutsk Approach
+UEEE_R_APP Yakutsk Radar
+UEEE_TWR Yakutsk Tower
+UEEE_GND Yakutsk Ground

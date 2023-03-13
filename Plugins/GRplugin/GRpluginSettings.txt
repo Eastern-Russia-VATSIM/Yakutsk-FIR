@@ -1,0 +1,35 @@
+//System Scale(Customizable)
+System_GUI_Scale_GlobalMenu=1.0  /Top Bar and menus scale
+System_GUI_Scale_Lists=1.0       /Plugin lists scale
+System_GUI_Scale_Screen=1.0      /Screen Drawings scale
+System_GUI_Scale_Tracks=1.0      /Track scale
+System_GUI_Scale_Windows=1.0     /Windows Scale
+
+//System Colors(Customizable)
+System_TagColor=0,0,0            /System TAGs color
+Color_APP_Background=149,149,149 /APP Window Background color
+
+AppPath=UEEE:ILS 23L:N062.06.22.399:E129.47.44.199:232:L:314:3.0
+Window_APP_Scale=10.0 
+Window_APP=1,1500,69,600,400  
+Window_APP_Extensions=15
+System_TagColor=0,128,192
+AppLabel_Transparency_Bg=0
+GroundLabel_UseSelColor=1
+Color_Selected=255,255,255
+Color_Departure=255,255,255
+System_GlobalMenu_Font=EuroScope
+Color_SelectedLabelFill_Gnd=0,77,137
+Color_SelectedFieldFill_Gnd=0,77,137
+GroundLabel_Transparency_Bg=255
+GroundLabel_Transparency_Bd=255
+GroundLabel_Field_Transparency_Bg=255
+[UEEE]
+Airport_Refpoint=N062.05.38.520:E129.46.34.080
+Airport_Elevation=328
+Airport_TransAlt=3610
+Airport_Runway_End=05R:N062.04.58.468:E129.45.29.768
+Airport_Runway_End=23L:N062.06.22.399:E129.47.44.199
+Airport_Runway_Area=05R:25
+Airport_Runway_Area=23L:25
+System_APM=0
