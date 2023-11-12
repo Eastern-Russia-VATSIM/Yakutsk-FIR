@@ -13,7 +13,3 @@
 
 ###### У пользователей Windows 11 (редко Windows 10) наблюдаются вылеты EuroScope. Требуется удалить плагин Discord в директории plugins.
 ###### Windows 11 (rarely Windows 10) users are experiencing EuroScope crashes. You need to remove the Discord plugin in the plugins directory.
-
-###### ⚠️ Сектор файл принадлежит РПИ Якутск международной сети VATSIM. Любые изменения, копирование и распространение без согласия руководства РПИ запрещены.
-
-###### ⚠️ This sector file belong to Yakutsk FIR of international network VATSIM. Any changes and copying without the consent of the FIR staff are prohibited.
