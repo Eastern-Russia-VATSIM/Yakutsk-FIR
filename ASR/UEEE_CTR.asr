@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\zikee.ALEX-PC\Documents\SectorFiles\Yakutsk FIR - Topaz v1.0\Sector\Yakutsk FIR TOPAZ.sct
+SECTORFILE:C:\Users\zikee\AppData\Roaming\EuroScope\Sectors\Russia\Eastern Russia\Yakutsk-FIR-main\Sector\Yakutsk FIR TOPAZ.sct
 SECTORTITLE:Yakutsk FIR TOPAZ.sct
 Airports:UEAT:name
 Airports:UEAT:symbol
@@ -768,4 +768,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TOPAZ
-WINDOWAREA:53.663994:93.572941:72.820988:167.440763
+WINDOWAREA:50.039357:73.873712:79.972160:189.292184

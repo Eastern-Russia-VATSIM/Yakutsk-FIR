@@ -1,0 +1,196 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\zikee\AppData\Roaming\EuroScope\Sectors\Russia\Eastern Russia\Yakutsk-FIR-main\Sector\Yakutsk FIR TOPAZ.sct
+SECTORTITLE:Yakutsk FIR TOPAZ.sct
+Airports:UEEP:name
+Airports:UEEP:symbol
+Airports:UEMM:name
+Airports:UEMM:symbol
+ARTCC high boundary:UEEE_APP:
+ARTCC low boundary:UEEE_R_APP:
+ARTCC low boundary:UEEP_TWR:
+ARTCC low boundary:UEMM_TWR:
+Fixes:ABGUR:name
+Fixes:ABGUR:symbol
+Fixes:AGMAT:name
+Fixes:AGMAT:symbol
+Fixes:BAGNI:name
+Fixes:BAGNI:symbol
+Fixes:BAGUS:name
+Fixes:BAGUS:symbol
+Fixes:BASNA:name
+Fixes:BASNA:symbol
+Fixes:BELOG:name
+Fixes:BELOG:symbol
+Fixes:BENAG:name
+Fixes:BENAG:symbol
+Fixes:BESIB:name
+Fixes:BESIB:symbol
+Fixes:DENIB:name
+Fixes:DENIB:symbol
+Fixes:DIROM:name
+Fixes:DIROM:symbol
+Fixes:DOBUS:name
+Fixes:DOBUS:symbol
+Fixes:EE001:name
+Fixes:EE001:symbol
+Fixes:EE002:name
+Fixes:EE002:symbol
+Fixes:EE003:name
+Fixes:EE003:symbol
+Fixes:EE004:name
+Fixes:EE004:symbol
+Fixes:EE016:name
+Fixes:EE016:symbol
+Fixes:EE017:name
+Fixes:EE017:symbol
+Fixes:EE018:name
+Fixes:EE018:symbol
+Fixes:EE019:name
+Fixes:EE019:symbol
+Fixes:EE020:name
+Fixes:EE020:symbol
+Fixes:EE021:name
+Fixes:EE021:symbol
+Fixes:EE022:name
+Fixes:EE022:symbol
+Fixes:EE025:name
+Fixes:EE025:symbol
+Fixes:EE026:name
+Fixes:EE026:symbol
+Fixes:EE027:name
+Fixes:EE027:symbol
+Fixes:GIMEK:name
+Fixes:GIMEK:symbol
+Fixes:GOBON:name
+Fixes:GOBON:symbol
+Fixes:IDESA:name
+Fixes:IDESA:symbol
+Fixes:KUSIR:name
+Fixes:KUSIR:symbol
+Fixes:KUTEG:name
+Fixes:KUTEG:symbol
+Fixes:LEPRI:name
+Fixes:LEPRI:symbol
+Fixes:LUGIT:name
+Fixes:LUGIT:symbol
+Fixes:LULEN:name
+Fixes:LULEN:symbol
+Fixes:LUTEN:name
+Fixes:LUTEN:symbol
+Fixes:NANET:name
+Fixes:NANET:symbol
+Fixes:NENAL:name
+Fixes:NENAL:symbol
+Fixes:NIBES:name
+Fixes:NIBES:symbol
+Fixes:NIGON:name
+Fixes:NIGON:symbol
+Fixes:OBILI:name
+Fixes:OBILI:symbol
+Fixes:OGLIS:name
+Fixes:OGLIS:symbol
+Fixes:OGROD:name
+Fixes:OGROD:symbol
+Fixes:OKONA:name
+Fixes:OKONA:symbol
+Fixes:OKSIN:name
+Fixes:OKSIN:symbol
+Fixes:OKTUR:name
+Fixes:OKTUR:symbol
+Fixes:RANEP:name
+Fixes:RANEP:symbol
+Fixes:REDKA:name
+Fixes:REDKA:symbol
+Fixes:RIGNA:name
+Fixes:RIGNA:symbol
+Fixes:RITIS:name
+Fixes:RITIS:symbol
+Fixes:ROLBI:name
+Fixes:ROLBI:symbol
+Fixes:ROSAT:name
+Fixes:ROSAT:symbol
+Fixes:RUTIK:name
+Fixes:RUTIK:symbol
+Fixes:SORIP:name
+Fixes:SORIP:symbol
+Fixes:SUGUN:name
+Fixes:SUGUN:symbol
+Fixes:TAGIL:name
+Fixes:TAGIL:symbol
+Fixes:TEGMA:name
+Fixes:TEGMA:symbol
+Fixes:TEKDI:name
+Fixes:TEKDI:symbol
+Fixes:TINUT:name
+Fixes:TINUT:symbol
+Fixes:TIRSI:name
+Fixes:TIRSI:symbol
+Fixes:TISED:name
+Fixes:TISED:symbol
+Fixes:TOBKA:name
+Fixes:TOBKA:symbol
+Fixes:TUROP:name
+Fixes:TUROP:symbol
+Geo:Coastline:
+Geo:GEO:
+Geo:RIVERS:
+NDBs:M:frequency
+NDBs:M:name
+NDBs:M:symbol
+NDBs:MF:frequency
+NDBs:MF:name
+NDBs:MF:symbol
+NDBs:V:frequency
+NDBs:V:name
+NDBs:V:symbol
+NDBs:VD:frequency
+NDBs:VD:name
+NDBs:VD:symbol
+Regions:GROUND:polygon
+Regions:RIVERS:polygon
+Stars:UEEE RNAV05:
+Stars:UEEE RNAV05 EE001:
+Stars:UEEE RNAV05 EE002:
+Stars:UEEE RNAV05 EE003:
+Stars:UEEE STAR 05 ABGUR6C:
+Stars:UEEE STAR 05 AGMAT6C:
+Stars:UEEE STAR 05 BAGUS6C:
+Stars:UEEE STAR 05 BESIB6C:
+Stars:UEEE STAR 05 DENIB6C:
+Stars:UEEE STAR 05 DIROM6C:
+Stars:UEEE STAR 05 DOBUS6C:
+Stars:UEEE STAR 05 GIMEK6C:
+Stars:UEEE STAR 05 GOBON6C:
+Stars:UEEE STAR 05 IDESA6C:
+Stars:UEEE STAR 05 KUTEG6C:
+Stars:UEEE STAR 05 LEPRI6C:
+Stars:UEEE STAR 05 NENAL6C:
+Stars:UEEE STAR 05 NIBES6C:
+Stars:UEEE STAR 05 OGLIS6C:
+Stars:UEEE STAR 05 OKSIN6C:
+Stars:UEEE STAR 05 OKTUR6C:
+Stars:UEEE STAR 05 REDKA6C:
+Stars:UEEE STAR 05 RUTIK6C:
+Stars:UEEE STAR 05 SORIP6C:
+Stars:UEEE STAR 05 TEGMA6C:
+Stars:UEEE STAR 05 TEKDI6C:
+Stars:UEEE STAR 05 TUROP6C:
+VORs:UTS:frequency
+VORs:UTS:name
+VORs:UTS:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:2000
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TOPAZ
+WINDOWAREA:61.553753:127.607563:62.615686:131.702288
