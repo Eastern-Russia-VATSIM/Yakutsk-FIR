@@ -29,8 +29,8 @@ Settings	airportcoords	\NavData\icao.txt
 Settings	airways	\NavData\airway.txt
 Settings	alias	\Settings\TOPAZ.txt
 RecentFiles	Recent1	\ASR\UEEE_CTR.asr
-RecentFiles	Recent2	\ASR\UEEE_APP.asr
-RecentFiles	Recent3	\ASR\UEEE_GND-TWR.asr
+RecentFiles	Recent2	\ASR\UEEE_GND-TWR.asr
+RecentFiles	Recent3	\ASR\UEEE_APP_23.asr
 Sounds	Sound0	\Sounds\handoff_request.wav
 Sounds	Sound1	\Sounds\handoff_accept.wav
 Sounds	Sound2	\Sounds\conflict_alert.wav
@@ -49,6 +49,7 @@ Sounds	Sound14	\Sounds\ongoing_manual.wav
 Sounds	Sound15	\Sounds\new_atis.wav
 Sounds	Sound16	\Sounds\handoff_refused.wav
 Sounds	Sound17	\Sounds\pointout.wav
+Sounds	Sound18	\Sounds\startup.wav
 TeamSpeakVccs	Ts3DialogLeft	0
 TeamSpeakVccs	Ts3DialogTop	426
 TeamSpeakVccs	Ts3DialogRight	905
@@ -61,7 +62,6 @@ Plugins	Plugin1	\Plugins\GRplugin\GRplugin.dll
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin2	\Plugins\vTools\vTools.dll
 Plugins	Plugin2Display0	vTools
-Plugins	Plugin3	C:\Users\zikee.ALEX-PC\Documents\GitHub\Discord\Euroscope 3.2\DiscordEuroscope.dll
 Plugins	Plugin4Display1	Standard ES radar screen
 Plugins	Plugin4Display2	Ground Radar display
 Plugins	Plugin4Display3	vTools
@@ -69,3 +69,8 @@ Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin2Display2	Ground Radar display
+LastSession	atis_freq4	118000
+RecentFiles	Recent4	\ASR\UEEE_APP.asr
+RecentFiles	Recent5	\ASR\UEEE_APP_05.asr
+Plugins	Plugin3	\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin4	\Plugins\VSS Plugin\VSS.dll
